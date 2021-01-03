@@ -30,7 +30,7 @@ is more technical, and we spent most of the session discussing it.
 ## Discussion
 
 The second paper describes a procedure for detecting bias in a classifier, using the example of a 
-smiling face detector. To check for bias, we might using counterfactual reasoning and ask questions 
+smiling face detector. To check for bias, we might use counterfactual reasoning and ask questions 
 like "Would the prediction change if I was older?" That might indicate a bias based on age. The 
 authors model that question by using a GAN to generate images that vary along the "attribute vector" 
 for age, producing an older or younger version of the same image. They then see how the classifier 
