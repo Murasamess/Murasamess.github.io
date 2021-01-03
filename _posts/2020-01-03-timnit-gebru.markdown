@@ -3,6 +3,7 @@ layout: post
 title: "Timnit Gebru's Work on Algorithmic Fairness"
 date:  2020-12-28 
 author: "Lavanya Singh"
+presenter: "Lavanya Singh"
 categories: [fairness, ML, society]
 papers:
 - name: "Closing the AI Accountability Gap: Defining an End-to-End Framework for Internal Algorithmic Auditing"
@@ -64,6 +65,6 @@ As always, we went on many tangents during our conversation. Here are a few:
 <ul>
 <li>Why do so many AI papers automate tasks that humans are really good at, like smiling detection?</li>
 <li>Does using AI for science create intellectual and knowledge debt? Like yeah Google solved protein
-folding but do we really know how protein folding works? Here's an interesting [article](https://www.newyorker.com/tech/annals-of-technology/the-hidden-costs-of-automated-thinking) on this. </li>
+folding but do we really know how protein folding works? Here's an [interesting article](https://www.newyorker.com/tech/annals-of-technology/the-hidden-costs-of-automated-thinking) on this. </li>
 <li>What are everyone's plans for next semester? (I, personally, am moving back to campus)</li>
 </ul> 
