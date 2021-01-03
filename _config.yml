@@ -17,8 +17,6 @@ social:
       link: "https://github.com/csreadinggroup"
 
 urls:
-    - text: Blog
-      url: /blog
     - text: Papers
       url: /papers
 
