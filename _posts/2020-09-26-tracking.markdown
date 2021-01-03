@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Tracking Without Bells and Whistles"
+author: "Mihir Patel"
+presenter: "Mihir Patel"
+date:  2020-09-26
+categories: [ML, computer vision, deep learning]
+papers:
+- name: "Tracking without bells and whistles"
+  link: "https://arxiv.org/pdf/1903.05625.pdf"
+---

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Dynamic Graph Connectivity"
+author: "Sumer Sao"
+presenter: "Sumer Sao"
 date:  2020-10-03
 categories: [data structures, algorithms, graphs]
 papers:

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "IP=PSPACE"
-date:  2020-11-07
+date:  2020-10-24
+author: "Noah Singer"
+presenter: "Noah Singer"
 categories: [theory, complexity]
 papers:
 - name: "IP=PSPACE"
