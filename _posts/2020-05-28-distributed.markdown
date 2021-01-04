@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Distributed Systems"
-author: "Lavanya Singh"
-presenter: "Lavanya Singh"
+author: "Varun Tekur"
+presenter: "Varun Tekur"
 date:  2020-05-28
 categories: [systems, distributed systems]
 papers:
