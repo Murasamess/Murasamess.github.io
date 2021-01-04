@@ -3,7 +3,7 @@ layout: post
 title: "DeepProbLog"
 author: "Varun Tekur"
 presenter: "Varun Tekur"
-date:  2020-07-16
+date:  2020-07-23
 categories: [deep learning, programming languages]
 papers:
 - name: "DeepProbLog: Neural Probabilistic Logic Programming"

@@ -3,7 +3,7 @@ layout: post
 title: "Bloom Filters"
 author: "Shuvom Sadhuka"
 presenter: "Shuvom Sadhuka"
-date:  2020-05-21
+date:  2020-05-14
 categories: [data structures, algorithms, hashing]
 papers:
 - name: "Network Applications of Bloom Filters: A Survey"
