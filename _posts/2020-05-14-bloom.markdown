@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Bloom Filters"
+author: "Shuvom Sadhuka"
+presenter: "Shuvom Sadhuka"
+date:  2020-05-21
+categories: [data structures, algorithms, hashing]
+papers:
+- name: "Network Applications of Bloom Filters: A Survey"
+  link: "https://web.cs.ucdavis.edu/~franklin/ecs289/2010/dwork_2008.pdf"
+- name: "Cuckoo Filter: Practically Better Than Bloom"
+  link: "https://www.cs.cmu.edu/~dga/papers/cuckoo-conext2014.pdf"
+---

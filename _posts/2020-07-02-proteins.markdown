@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Return to Libc Attacks"
+author: "Shuvom Sadhuka"
+presenter: "Shuvom Sadhuka"
+date:  2020-07-02
+categories: [ML, deep learning, computational biology]
+papers:
+- name: "Accelerating Protein Design Using Autoregressive Generative Models"
+  link: "https://www.biorxiv.org/content/10.1101/757252v1.full.pdf"
+- name: "Mutation effects predicted from sequence co-variation"
+  link: "https://www.nature.com/articles/nbt.3769"
+---

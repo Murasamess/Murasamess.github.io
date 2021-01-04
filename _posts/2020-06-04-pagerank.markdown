@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Graph Alignment and Ranking Algorithms"
+author: "Shuvom Sadhuka"
+presenter: "Shuvom Sadhuka"
+date:  2020-06-04
+categories: [data structures, algorithms, graphs]
+papers:
+- name: "The PageRank Citation Ranking: Bringing Order to the Web"
+  link: "http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf"
+- name: "Automatic Parameter Learning for Multiple Network Alignment"
+  link: "https://ai.stanford.edu/~chuongdo/papers/learn_graemlin.pdf"
+---

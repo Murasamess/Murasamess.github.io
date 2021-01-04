@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Faster k-means"
+date:  2021-01-04
+author: "Sidhika Balachandar"
+presenter: "Sidhika Balachandar"
+categories: [data structures, algorithms]
+papers:
+- name: "Scalable K-Means by ranked retrieval"
+  link: "https://research.google/pubs/pub42853/"
+---

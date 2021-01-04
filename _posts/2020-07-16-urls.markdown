@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Identifying Suspicious URLs"
+author: "Lawrence Saul"
+presenter: "Lawrence Saul (Prof. of CS @ UCSD)"
+date:  2020-07-16
+categories: [ML, security]
+papers:
+- name: "Identifying Suspicious URLs: An Application of Large-Scale Online Learning"
+  link: "https://icml.cc/Conferences/2009/papers/42.pdf"
+- name: "Learning to Detect Malicious URLs"
+  link: "https://cseweb.ucsd.edu/~savage/papers/TIST11.pdf"
+---

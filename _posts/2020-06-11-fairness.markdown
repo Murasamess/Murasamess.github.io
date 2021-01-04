@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Interpretable Models for Medical Treatments and Bail Decisions"
+author: "Varun Tekur"
+presenter: "Varun Tekur"
+date:  2020-06-11
+categories: [ML, fairness, bias, interpretability, society]
+papers:
+- name: "Learning Cost-Effective and Interpretable Treatment Regimes"
+  link: "http://proceedings.mlr.press/v54/lakkaraju17a/lakkaraju17a.pdf"
+- name: "Machine Bias"
+  link: "https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing"
+---
