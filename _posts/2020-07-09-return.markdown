@@ -2,7 +2,7 @@
 layout: post
 title: "Return to Libc Attacks"
 author: "Lavanya Singh"
-presenter: "Lavanya Singh (Prof. of CS @ UCSD)"
+presenter: "Lavanya Singh"
 date:  2020-07-09
 categories: [ML, security]
 papers:
