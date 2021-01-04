@@ -15,7 +15,7 @@ layout: default
   {% endfor %}
 
   <hr />
-  {% if true == true %}
+  {% if true %}
     {% for post in site.categories[page.categories] %}
       {% capture post_year %}{{ post.date | date: '%Y' }}{% endcapture %}
       {% if forloop.first %}
