@@ -16,7 +16,6 @@ layout: default
   <button class="btn btn-sm btn-default active btn-tags">All</button>
 
   <hr />
-  {% if true %}
     {% for post in site.categories[page.categories] %}
       {% capture post_year %}{{ post.date | date: '%Y' }}{% endcapture %}
       {% if forloop.first %}
@@ -40,7 +39,4 @@ layout: default
         </div>
       {% endif %}
     {% endfor %}
-  {% else %}
-    <p>There are no posts in this categories.</p>
-  {% endif %}
 </div>
