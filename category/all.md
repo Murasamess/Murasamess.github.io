@@ -1,8 +1,5 @@
 ---
-layout: posts_by_category
-categories: !CAT! 
-title: All
+layout: category_all
+title: All Posts
 permalink: /category/all
 ---
-
-{{ page.categories | replace: '!CAT!', site.categories }}
