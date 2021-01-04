@@ -31,11 +31,13 @@ memory pages.
 
 Our discussion of the first paper focused on the implementation of branching and conditionals
 using libc. We thought that the use of `lfind` was really interesting. The paper also mentions
-some protections against return_to_libc attacks: values passed to `longjmp` are xor'ed by a
+some protections against return to libc attacks: values passed to `longjmp` are xor'ed by a
 constant. Amusingly, both Windows and Linux hard-code this constant, so this is super easy 
 to subvert.
 
 ## Tangents
 
-This was our first systems paper and we enjoyed the brief departure from math!
+This was our first systems paper and we enjoyed the brief departure from math! For more surprisingly
+Turing complete systems, [see](https://www.gwern.net/Turing-complete#). My favorite is this article
+very clearly titled, ["mov is Turing-complete"](https://www.gwern.net/docs/www/stedolan.net/1dfd79e26e320470b867750a4837e2d0c0d908cd.pdf).
  
