@@ -8,4 +8,34 @@ categories: [ML, security]
 papers:
 - name: "On the Expressiveness of Return-into-libc Attacks"
   link: "https://people.engr.ncsu.edu/tkbletsc/pubs/TCRILC.pdf"
+- name: "You Can Run but You Can’t Read - Preventing Disclosure Exploits in Executable Code"
+  link: "https://www.dfki.de/fileadmin/user_upload/import/7903_nuernberger2014ccs_disclosure.pdf"
 ---
+
+## Inspiration
+
+One week this summer, I went down the "unexpectedly Turing complete" rabbit hole 
+and spent all my time looking at languages that somehow, against all odds, managed
+to be Turing complete. Most of the stuff I found was mildly amusing but not very useful, 
+([see](https://www.youtube.com/watch?v=uNjxe8ShM-8) the Turing completeness of PowerPoint), 
+but this paper was an interesting exception.
+
+## Papers
+
+We read "On the Expressiveness of Return-into-libc Attacks," which shows that libc functions 
+form a Turing complete language. We also read "You Can Run but You Can’t Read - Preventing 
+Disclosure Exploits in Executable Code," a paper that presents executable but not readable
+memory pages.
+
+## Discussion
+
+Our discussion of the first paper focused on the implementation of branching and conditionals
+using libc. We thought that the use of `lfind` was really interesting. The paper also mentions
+some protections against return_to_libc attacks: values passed to `longjmp` are xor'ed by a
+constant. Amusingly, both Windows and Linux hard-code this constant, so this is super easy 
+to subvert.
+
+## Tangents
+
+This was our first systems paper and we enjoyed the brief departure from math!
+ 

@@ -30,8 +30,8 @@ These papers have a lot of math in them, and we spent most of the session wrappi
 around the proofs presented. This was one of our first meetings, and I had no experience with 
 statistics or learning theory before the session. 
 
-We also discussed choice of the privacy budget \epsilon and with the idea of a "trusted database
-curator." Differential privacy is a powerful guarantee, but if your curator is a large technology
+We also discussed choice of the privacy budget \epsilon and the idea of a "trusted database
+curator." Differential privacy is a powerful guarantee, but if the curator is a large technology
 company, then we might not trust them to care about our privacy.
 
 ## Tangents
