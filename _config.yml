@@ -19,6 +19,8 @@ social:
 urls:
     - text: Papers
       url: /papers
+    - text: By Category
+      url: /category/all
 
 url: "https://csreadinggroup.github.io"
 baseurl: ""
