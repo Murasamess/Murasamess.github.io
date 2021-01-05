@@ -8,7 +8,7 @@ categories: [data structures, algorithms]
 papers:
 - name: "Scalable K-Means by ranked retrieval"
   link: "https://research.google/pubs/pub42853/"
+---
 
 ## Slides
 See [here](https://docs.google.com/presentation/d/1MwIHZj1ohQHgmBbekkkPaqK9nIynDYcTEySC5hUUKX0/edit#slide=id.p).
----
