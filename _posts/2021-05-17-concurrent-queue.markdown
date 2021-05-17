@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Simple, Fast, and Practical Non-Blocking and Blocking Concurrent Queue Algorithms
-date: 05-17-2021
+date: 2021-05-17
 author: "Lavanya Singh"
 presenter: "Shuvom Sadhuka"
 categories: [systems, algorithms]
