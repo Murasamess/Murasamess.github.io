@@ -3,7 +3,7 @@ layout: post
 title: A Latent Variable Model for Nonlinear Dimensionality Reduction
 author: "Lawrence Saul"
 presenter: "Lawrence Saul"
-date: 2021-03-24
+date: 2021-06-13
 categories: [machine learning, statistics]
 papers:
 - name: "A tractable latent variable model for nonlineardimensionality reduction"

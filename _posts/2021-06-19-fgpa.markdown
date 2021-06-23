@@ -3,7 +3,7 @@ layout: post
 title: OS Abstractions and Hardware
 author: "Abe Wieland"
 presenter: "Abe Wieland"
-date: 2021-04-01
+date: 2021-06-19
 categories: [systems, hardware]
 papers:
 - name: "Do OS abstractions make sense on FPGAs?"
