@@ -3,7 +3,7 @@ layout: post
 title: Error Correcting Bit Flips
 author: "Venkatesan Guruswami"
 presenter: "Venkatesan Guruswami"
-date: 2021-30-04
+date: 2021-04-30
 categories: [theory, complexity]
 ---
 
