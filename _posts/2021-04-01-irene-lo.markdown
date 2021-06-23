@@ -1,0 +1,21 @@
+---
+layout: post
+title: Mechanism Design
+author: "Irene Lo"
+presenter: "Irene Lo"
+date: 2021-04-01
+categories: [algorithms, economics and computation]
+---
+
+## Slides
+
+https://static.us.edusercontent.com/files/MFcyKuyk264hhgaZaBObeQdS
+
+## Speaker Bio
+
+I am an assistant professor in the department of Management Science & Engineering at Stanford University. My research builds on tools from algorithms and economics to design matching markets and assignment processes, with a focus on public sector and non-profit applications. I am especially interested in resource allocation in education, the environment, and the developing world, and more broadly in socially responsible operations research. I co-organize the Mechanism Design for Social Good research initiative with Rediet Abebe, Ana-Andreea Stoica, Francisco Marmolejo, Wanyi Li, and Lily Xu. 
+
+I am honored to be affiliated with the Stanford Golub Capital Social Impact Lab, the Stanford Institute for Human-Centered Artificial Intelligence, the Stanford King Center for Global Development, the Stanford Woods Institute for the Environment, as well as the Stanford Center for Ocean Solutions. I was previously a postdoctoral fellow at the economics department at Stanford University, supervised by Al Roth. I obtained my Ph.D. from the IEOR department at Columbia University in 2018, under the supervision of Jay Sethuraman and Jacob Leshno, and graduated from Princeton University in 2013 with an A.B. in mathematics.
+
+## Notes
+Part of CS124.5, an advanced reading group for Harvard's CS 124.  https://sites.fas.harvard.edu/~libcs124/cs124/index.html.  Organized by TAs for the course.

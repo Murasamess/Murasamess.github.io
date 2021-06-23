@@ -3,22 +3,19 @@ layout: post
 title: RNA-seq Read Quantification
 author: "Harold Pimentel"
 presenter: "Harold Pimentel"
-date: 2021-03-24
+date: 2021-03-17
 categories: [algorithms, data structures, computational biology]
 papers:
-- name: "A new multipoint method for genome-wide association studies by imputation of genotypes"
-  link: "https://www.nature.com/articles/ng2088"
+- name: "Near-optimal probabilistic RNA-seq quantification"
+  link: "https://www.nature.com/articles/nbt.3519"
 ---
 
-## Slides
-
-https://www.dropbox.com/s/dqmnysuq4kudbm8/21.03.19_CS124.pptx?dl=0
 
 ## Speaker Bio
 
-Hilary Finucane is co-director of the Program in Medical and Population Genetics. Her research group develops and applies new statistical and computational methods for analyzing biological data. The group’s main focus is on integrating genetic data about disease with molecular data about cell types and biological processes to learn about the causes of disease.
+I recently started as an assistant professor in Computational Medicine and Human Genetics at UCLA in July 2020. Previously, I was a postdoctoral researcher in Jonathan Pritchard’s lab at Stanford.
 
-Finucane earned her Ph.D. in applied math from the Department of Mathematics at Massachusetts Institute of Technology, supported by a Hertz Foundation Fellowship. Her research was in statistical genetics, advised by Alkes Price at the Harvard School of Public Health. Finucane also holds a M.Sc. in theoretical computer science from the Weizmann Institute of Science and a B.A. in math from Harvard. She is a recipient of the National Institutes of Health Director’s Early Independence Award.
+Broadly, I am interested in understanding how genes work in concert through gene regulation to make our bodies function normally. Part of why I find this area so fascinating is the technology is constantly evolving, as are the questions from both the biological side and the modeling side. As the theory evolves, in parallel the technology evolves opening new questions.
 
 ## Notes
 Part of CS124.5, an advanced reading group for Harvard's CS 124.  https://sites.fas.harvard.edu/~libcs124/cs124/index.html.  Organized by TAs for the course.

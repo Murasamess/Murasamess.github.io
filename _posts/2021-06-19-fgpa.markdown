@@ -1,0 +1,11 @@
+---
+layout: post
+title: OS Abstractions and Hardware
+author: "Abe Wieland"
+presenter: "Abe Wieland"
+date: 2021-04-01
+categories: [systems, hardware]
+papers:
+- name: "Do OS abstractions make sense on FPGAs?"
+  link: "https://www.usenix.org/system/files/osdi20-korolija.pdf"
+---
