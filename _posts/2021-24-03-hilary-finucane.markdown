@@ -3,7 +3,7 @@ layout: post
 title: Genotype Imputation
 author: "Hilary Finucane"
 presenter: "Hilary Finucane"
-date: 2021-01-05
+date: 2021-24-03
 categories: [algorithms, computational biology]
 papers:
 - name: "A new multipoint method for genome-wide association studies by imputation of genotypes"
