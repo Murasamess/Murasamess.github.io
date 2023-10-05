@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Bribes and Firm Value"
+author: "Stefan Zeume"
+presenter: "xxx"
+date:  2015-03-02
+categories: [ESG]
+---
