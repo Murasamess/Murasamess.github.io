@@ -14,7 +14,7 @@ collections:
 
 social:
     - icon: fa-github
-      link: "https://hkust-green-reading.github.io"
+      link: "https://murasamess.github.io/category/algorithms"
 
 urls:
     - text: Papers
@@ -22,7 +22,7 @@ urls:
     - text: By Category
       url: /category/all
 
-url: "https://hkust-green-reading.github.io"
+url: "https://murasamess.github.io/category/algorithms"
 baseurl: ""
 paginate: 50
 per_page: 50
