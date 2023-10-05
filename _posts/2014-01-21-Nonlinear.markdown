@@ -5,5 +5,7 @@ author: "Olivier Ledoit,Michael Wolf"
 presenter: "xxx"
 date:  2014-01-21
 categories: [ESG]
-[1]:{{ site.url }}/_posts/asset/Active Ownership.pdf
+papers:
+- name: "Identifying Suspicious URLs: An Application of Large-Scale Online Learning"
+  link: "Murasamess.github.io/_post/asset/Nonlinear Shrinkage of the Covi"
 ---
