@@ -1,13 +1,8 @@
 ---
 layout: post
-title: "Bloom Filters"
-author: "Shuvom Sadhuka"
-presenter: "Shuvom Sadhuka"
-date:  2020-05-14
-categories: [data structures, algorithms, hashing]
-papers:
-- name: "Network Applications of Bloom Filters: A Survey"
-  link: "https://web.cs.ucdavis.edu/~franklin/ecs289/2010/dwork_2008.pdf"
-- name: "Cuckoo Filter: Practically Better Than Bloom"
-  link: "https://www.cs.cmu.edu/~dga/papers/cuckoo-conext2014.pdf"
+title: "International Corporate Governance Spillovers"
+author: "Rui Albuquerque,Luis Brandão-Marques,Miguel A. Ferreira,Pedro Matos"
+presenter: "xxx"
+date:  2015-10-27
+categories: [ESG]
 ---
