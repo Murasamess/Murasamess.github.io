@@ -4,7 +4,7 @@ title: "Socially Responsible Investing in Good and Bad Times"
 author: "Ravi Bansal, Di (Andrew) Wu, Amir Yaron"
 presenter: "xxx"
 date:  2021-05-05
-categories: [ESG,CSR,Emissions,Carbon,Finance Top5]
+categories: [ESG,CSR,Emissions,Carbon,Review of Financial Studies]
 ---
 
 
