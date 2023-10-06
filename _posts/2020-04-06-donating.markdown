@@ -4,10 +4,7 @@ title: "Paying by Donating: Corporate Donations Affiliated with Independent Dire
 author: "Ye Cai, Jin Xu, Jun Yang"
 presenter: "xxx"
 date:  2020-04-06
-categories: [CSR,Finance Top5]
-papers:
-- name: "Download"
-  link: "https://deliverypdf.ssrn.com/delivery.php?ID=131074121084086072088099012095105093109023030014084091014024005126031071108085013090035056097013011097115068068025021093022123027020011005061093106086113107004070003041022006065104087031115115028027123100114004031076027093082113080084000015080095083&EXT=pdf&INDEX=TRUE"
+categories: [CSR,Review of Financial Studies]
 ---
 
 
