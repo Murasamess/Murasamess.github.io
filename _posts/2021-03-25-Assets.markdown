@@ -4,7 +4,7 @@ title: "Real and Private-Value Assets"
 author: "William N Goetzmann, Christophe Spaenjers, Stijn Van Nieuwerburgh"
 presenter: "xxx"
 date:  2021-03-03
-categories: [ESG,Green bond,Climate Change,Finance Top5]
+categories: [ESG,Green bond,Climate Change,Review of Financial Studies]
 ---
 
 
