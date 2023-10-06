@@ -4,7 +4,7 @@ title: "Political Determinants of Competition in the Mobile Telecommunication In
 author: "Mara Faccio, Luigi Zingales"
 presenter: "xxx"
 date:  2021-05-19
-categories: [Emissions,Carbon,Finance Top5]
+categories: [Emissions,Carbon,Review of Financial Studies]
 ---
 
 
