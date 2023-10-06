@@ -4,7 +4,7 @@ title: "Carbon Tail Risk"
 author: "Emirhan Ilhan, Zacharias Sautner, Grigory Vilkov"
 presenter: "xxx"
 date:  2020-05-20
-categories: [ESG,CSR,Climate Finance Top5]
+categories: [ESG,CSR,Climate,Review of Financial Studies]
 ---
 
 
