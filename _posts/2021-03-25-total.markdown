@@ -4,7 +4,7 @@ title: "The Total Return and Risk to Residential Real Estate"
 author: "Piet Eichholtz, Matthijs Korevaar, Thies Lindenthal, Ronan Tallec"
 presenter: "xxx"
 date:  2021-03-25
-categories: [Climate Change,Finance Top5]
+categories: [Climate Change,Review of Financial Studies]
 ---
 
 
