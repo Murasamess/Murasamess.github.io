@@ -4,7 +4,7 @@ title: "Blockchain without Waste: Proof-of-Stake"
 author: "Fahad Saleh"
 presenter: "xxx"
 date:  2020-06-27
-categories: [Emissions,Climate Change,Finance Top5]
+categories: [Emissions,Climate Change,Review of Financial Studies]
 ---
 
 
