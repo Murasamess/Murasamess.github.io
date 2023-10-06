@@ -29,6 +29,9 @@ papers:
     font-weight: bold;
   }
 </style>
+
+## Abstract
+I exploit the passage of the U.K. Bribery Act 2010 as a shock to U.K. firms’ cost of doing business. Around the Act’s passage, U.K. firms operating in high-corruption countries experience a drop in firm value, while their non-U.K. competitors in these countries encounter an increase. U.K. firms respond to the Act by reducing the expansion of their subsidiary network into perceptively corrupt countries. Moreover, their sales and merger and acquisition (M&A) activity in such countries declines. In sum, bribes facilitate doing business in certain countries. Imposing unilateral antibribery regulations on some firms benefits their unregulated competitors.
 ## Inspiration
 
 
