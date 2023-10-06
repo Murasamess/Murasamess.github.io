@@ -4,7 +4,7 @@ title: "Attention to Global Warming"
 author: "Darwin Choi, Zhenyu Gao, Wenxi Jiang"
 presenter: "xxx"
 date:  2020-02-07
-categories: [ESG,Emissions,Climate Change,Carbon,Finance Top5]
+categories: [ESG,Emissions,Climate Change,Carbon,Review of Financial Studies]
 papers:
 - name: "Download"
   link: "https://deliverypdf.ssrn.com/delivery.php?ID=156082089114107065092088085119116102002054084092007058124026026088064093014091123096027019013002018046016030094067087067083125059084071008033065116005065092019028000007083004090004086006117100113097115020020085076111020113012095071081030072070100006&EXT=pdf&INDEX=TRUE"
