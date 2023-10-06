@@ -4,7 +4,7 @@ title: "Asset Encumbrance, Bank Funding, and Fragility"
 author: "Toni Ahnert, Kartik Anand, Prasanna Gai, James Chapman"
 presenter: "xxx"
 date:  2018-08-17
-categories: [Climate Change,Finance Top5]
+categories: [Climate Change,Review of Financial Studies]
 papers:
 - name: "Download"
   link: "https://deliverypdf.ssrn.com/delivery.php?ID=831111064100006086109094021109111110028043028048003056002039029014125058049116002037109011068078049050042035021019075105120091122077089093126014085062117025025119064081078065117103072068065079122030091087069073023009025124071072&EXT=pdf&INDEX=TRUE"
