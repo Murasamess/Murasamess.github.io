@@ -4,7 +4,7 @@ title: "Decentralized Mining in Centralized Pools?"
 author: "Lin William Cong, Zhiguo He, Jiasun Li"
 presenter: "xxx"
 date:  2020-02-14
-categories: [Climate Change,Emissions,Finance Top5]
+categories: [Climate Change,Emissions,Review of Financial Studies]
 papers:
 - name: "Download"
   link: "https://www.nber.org/system/files/working_papers/w25592/w25592.pdf"
