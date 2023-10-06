@@ -4,7 +4,7 @@ title: "Financial Constraints and Corporate Environmental Policies"
 author: "Qiping Xu, Taehyun Kim"
 presenter: "xxx"
 date:  2021-04-19
-categories: [ESG,Carbon,Emissions,Finance Top5]
+categories: [ESG,Carbon,Emissions,Review of Financial Studies]
 ---
 
 
