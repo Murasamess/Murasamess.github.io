@@ -1,0 +1,40 @@
+---
+layout: post
+title: "Models or Stars: The Role of Asset Pricing Models and Heuristics in Investor Risk Adjustment"
+author: "Richard B Evans, Yang Sun"
+presenter: "xxx"
+date:  2020-04-03
+categories: [ESG,Finance Top5]
+papers:
+- name: "Download"
+  link: "https://deliverypdf.ssrn.com/delivery.php?ID=320069123112084117094105092092005009049040064078088068077091109101086091065002124011054057055004118051018069081113030028010017015048049051033114030090113027080124004085077028001009093117094099065121122080065089003084089088079123005093126000068121072020&EXT=pdf&INDEX=TRUE"
+---
+
+
+<p>
+  <a href="https://deliverypdf.ssrn.com/delivery.php?ID=320069123112084117094105092092005009049040064078088068077091109101086091065002124011054057055004118051018069081113030028010017015048049051033114030090113027080124004085077028001009093117094099065121122080065089003084089088079123005093126000068121072020&EXT=pdf&INDEX=TRUE" class="button">
+    Download
+  </a>
+</p>
+
+<style>
+  .button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+  }
+</style>
+
+## Abstract
+We examine the role of factor models and simple performance heuristics in investor decision-making using Morningstar’s 2002 rating methodology change. Before the change, flows strongly correlated with CAPM alphas. After, when funds are ranked by size and book-to-market groups, flows become more sensitive to 3-factor alphas (FF3). Flows to a matched institutional sample (same managers/strategies) follow FF3 before and after the change but are unrelated to the CAPM. Placebo tests with sector funds and other factor loadings show no effects. Our results imply that improvements in simple performance heuristics can result in more sophisticated risk adjustment by retail investors.
+## Inspiration
+
+
+
+
+## Discussion
