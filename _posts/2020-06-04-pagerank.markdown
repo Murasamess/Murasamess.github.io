@@ -1,13 +1,40 @@
 ---
 layout: post
-title: "Graph Alignment and Ranking Algorithms"
-author: "Shuvom Sadhuka"
-presenter: "Shuvom Sadhuka"
-date:  2020-06-04
-categories: [data structures, algorithms, graphs]
+title: "The Corporate Value of (Corrupt) Lobbying "
+author: "Alexander Borisov, Eitan Goldman, Nandini Gupta"
+presenter: "xxx"
+date:  2015-12-08
+categories: [CSR,Finance Top5]
 papers:
-- name: "The PageRank Citation Ranking: Bringing Order to the Web"
-  link: "http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf"
-- name: "Automatic Parameter Learning for Multiple Network Alignment"
-  link: "https://ai.stanford.edu/~chuongdo/papers/learn_graemlin.pdf"
+- name: "Download"
+  link: "https://deliverypdf.ssrn.com/delivery.php?ID=124083127024115092016119095025087087057013006006039043089016070023002126074087090068056000031041111006030010003100104027067082062074008052087001003083074108118007090013049090094122020020027008096117085006000086108122095065092122110122006071115066117&EXT=pdf&INDEX=TRUE"
 ---
+
+
+<p>
+  <a href="https://deliverypdf.ssrn.com/delivery.php?ID=124083127024115092016119095025087087057013006006039043089016070023002126074087090068056000031041111006030010003100104027067082062074008052087001003083074108118007090013049090094122020020027008096117085006000086108122095065092122110122006071115066117&EXT=pdf&INDEX=TRUE" class="button">
+    Download
+  </a>
+</p>
+
+<style>
+  .button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+  }
+</style>
+
+## Abstract
+We examine whether the stock market considers corporate lobbying to be value enhancing, using an event that potentially limited the ability of firms to lobby but was exogenous to their characteristics and prior lobbying decisions. The results show that this exogenous shock negatively affects the value of firms that lobby. In particular, we estimate that a firm that spends $100,000 more on lobbying in the 3 years before the shock (where sample average lobbying expenses are about $4 million), experiences a loss of about $1.2 million in shareholder value on average. We also examine the channels through which lobbying may create value for firms.
+## Inspiration
+
+
+
+
+## Discussion
