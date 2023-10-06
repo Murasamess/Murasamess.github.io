@@ -4,7 +4,7 @@ title: "When Shareholders Disagree: Trading after Shareholder Meetings"
 author: "Sophia Zhengzi Li, Ernst Maug, Miriam Schwartz-Ziv"
 presenter: "xxx"
 date:  2021-04-20
-categories: [ESG,CSR,Finance Top5]
+categories: [ESG,CSR,Review of Financial Studies]
 ---
 
 
