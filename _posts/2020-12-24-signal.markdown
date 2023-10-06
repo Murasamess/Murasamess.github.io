@@ -4,7 +4,7 @@ title: "How Should Performance Signals Affect Contracts?"
 author: "Pierre Chaigneau, Alex Edmans, Daniel Gottlieb"
 presenter: "xxx"
 date:  2020-12-24
-categories: [ESG,Emissions,Finance Top5]
+categories: [ESG,Emissions,Review of Financial Studies]
 ---
 
 
