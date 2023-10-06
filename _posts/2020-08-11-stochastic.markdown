@@ -4,7 +4,7 @@ title: "Implications of Stochastic Transmission Rates for Managing Pandemic Risk
 author: "Harrison Hong, Neng Wang, Jinqiang Yang"
 presenter: "xxx"
 date:  2020-08-11
-categories: [Climate Change,Finance Top5]
+categories: [Climate Change,Review of Financial Studies]
 ---
 
 
