@@ -1,0 +1,37 @@
+---
+layout: post
+title: "The Total Return and Risk to Residential Real Estate"
+author: "Piet Eichholtz, Matthijs Korevaar, Thies Lindenthal, Ronan Tallec"
+presenter: "xxx"
+date:  2021-03-25
+categories: [Climate Change,Finance Top5]
+---
+
+
+<p>
+  <a href="https://deliverypdf.ssrn.com/delivery.php?ID=392001104070027086027118029067025007014068057063028037092015026031104004127002112031006037049124106003039080091080001066105089046016030083072003071097123065096122087051008094092075005007103023126096109118094015110127080101113004029014092084099098095074&EXT=pdf&INDEX=TRUE" class="button">
+    Download
+  </a>
+</p>
+
+<style>
+  .button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+  }
+</style>
+
+## Abstract
+We estimate total returns to rental housing by studying over 170,000 hand-collected archival observations of prices and rents for individual houses in Paris (1809–1943) and Amsterdam (1900–1979). The annualized real total return, net of costs and taxes, is 4.0% for Paris and 4.8% for Amsterdam and entirely comes from rental yields. Our returns weakly correlate with the implied returns in Jordà et al. (2019) and are substantially lower. We decompose total return risk at the individual asset level and find that yield risk becomes an increasingly important component of property-level risk for longer investment horizons.
+## Inspiration
+
+
+
+
+## Discussion
