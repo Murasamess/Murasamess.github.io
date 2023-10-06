@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
-categories: Finance Top5
-title: Finance Top5
-permalink: /category/Finance%20Top5
+categories: Review of Financial Studies
+title: Review of Financial Studies
+permalink: /category/Review%20of%20Financial%20Studies
 ---
