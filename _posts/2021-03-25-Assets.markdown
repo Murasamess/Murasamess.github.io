@@ -1,0 +1,37 @@
+---
+layout: post
+title: "Real and Private-Value Assets"
+author: "William N Goetzmann, Christophe Spaenjers, Stijn Van Nieuwerburgh"
+presenter: "xxx"
+date:  2021-03-03
+categories: [ESG,Green bond,Climate Change,Finance Top5]
+---
+
+
+<p>
+  <a href="https://deliverypdf.ssrn.com/delivery.php?ID=075114103000077075114098112124084025125053040028048056123004124126003001091066004078035011028047049060004026090065113066119106009078074029038028013082090102008070077042005006005027124006117066115119090108100104079019126065003123001074090004077003105&EXT=pdf&INDEX=TRUE" class="button">
+    Download
+  </a>
+</p>
+
+<style>
+  .button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+  }
+</style>
+
+## Abstract
+Real and private-value assets—defined here as the sum of real estate, infrastructure, collectibles, and noncorporate business equity—compose an investment class worth an estimated $84 trillion in the U.S. alone. Furthermore, private values can affect pricing in many other financial markets, such as that for sustainable investments. This paper introduces the research on real assets and private values that can be found in this special issue. It also reviews recent advances and highlights new research directions on a number of topics in the real assets space that we believe to be particularly important and exciting.
+## Inspiration
+
+
+
+
+## Discussion
