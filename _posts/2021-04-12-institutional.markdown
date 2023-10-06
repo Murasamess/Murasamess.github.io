@@ -4,7 +4,7 @@ title: "Institutional Investors and Infrastructure Investing"
 author: "Aleksandar Andonov, Roman Kräussl, Joshua Rauh"
 presenter: "xxx"
 date:  2021-04-12
-categories: [ESG,Climate Change,Emissions,Finance Top5]
+categories: [ESG,Climate Change,Carbon,Finance Top5]
 ---
 
 
