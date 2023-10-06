@@ -1,0 +1,40 @@
+---
+layout: post
+title: "The Value of Green Energy: Optimal Investment in Mutually Exclusive Projects and Operating Leverage"
+author: "Jerome Detemple, Yerkin Kitapbayev"
+presenter: "xxx"
+date:  2018-09-22
+categories: [Climate Change,Carbon,Finance Top5]
+papers:
+- name: "Download"
+  link: "https://watermark.silverchair.com/hhz097.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA3kwggN1BgkqhkiG9w0BBwagggNmMIIDYgIBADCCA1sGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMD0fng6umSGxy2LJ8AgEQgIIDLKGSfIQhCN8OGMqVu6gUwD_F9JI-GC1L6v7uW25NOJbKk-T3lzOJrGbKOexIS-C7QwgwMwvGgqoSRS49EQtacvflLFAStwkfKfuvtfqiwtRshHrlq4NBCkL9uqAkQrT-kpTwmDqXo7HGYGdsMA_wXoASYMO0Ff-7MGESktjoKd5XJbmBBoM3wj5sPYd59xRH71Xmi7SxRSB4YTTlOqTW1fiXfvhpOq-2J41dQs1V-apvaQrjjmJ9Lfd4whawH2mxprzWZiuL9jnqphywoFm-qf_wEDrxHHDFZkwFnxmWCjiaoxISLClYc-PDGB_G2OdFRUhAiBlWkq5VaJjftfNebTWhbpyLEooJnzOAWzyqzulaD_CxgGlnV2dtAxjT67G0jK_EhB46sEuXN3GRvqegzeuhe7WHYcwWTS36BSEWyhhfSPHLC432VvfNq7n8NnZuPNfBHdJJUpl8-lQ8pQAed5adUf4c3M_P82EYf5o83x7ilVlJn_6tJ5_K9v3Xs0_grV-niRTvunUu2Ev91M6S9Tv3zNrfAy6jdUjCY0ACrrX0Q1P6oeY1I6xSo9doxInGh4D11-TCV7OH9uY_J10f8gtyQC9RKPZhWIfoOXOc7ZD6t8ppt5ZIydJlakGaaKb838jRHZmqsPY_1tqO10_B97ips1fY7VZRTMxRcbhkb7oWeyQ3QmNsG0AginTqsswVM3omYdp94QfcgABQaknpxje30A9xIZ-2tNtdPyJBdd2TfFpzSh7gFTkKJtWQ0ER1iWnmAkr718aHDHDxfCZggNkEbEHA05PA3EA0JXC_GeBqDkrrV1qzFsfAq2iu8XBARExSIN4A-cW5upWjmm5eJ51AwOJiHf9Lpvx8skVqQ-xwLMUPtYHYrSMAxITV0Ok8PQLBdEUCzwXVKkFyacOgKFyCUOQgZMqepBbz8D-gjTLK0mcsjBF5gLuHVUFGrpq23GpqY2622HfE6LtjqlgpgiQtMMhwEcpWi5Uc0tO0Qcn798r9GISsdkifos1ke5ZScHXHV_r3j1nlzO_-_lEigmFhzILfewwrfU4uvEGCnFTlvIxOpWU0nA9qBVCx"
+---
+
+
+<p>
+  <a href="https://watermark.silverchair.com/hhz097.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA3kwggN1BgkqhkiG9w0BBwagggNmMIIDYgIBADCCA1sGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMD0fng6umSGxy2LJ8AgEQgIIDLKGSfIQhCN8OGMqVu6gUwD_F9JI-GC1L6v7uW25NOJbKk-T3lzOJrGbKOexIS-C7QwgwMwvGgqoSRS49EQtacvflLFAStwkfKfuvtfqiwtRshHrlq4NBCkL9uqAkQrT-kpTwmDqXo7HGYGdsMA_wXoASYMO0Ff-7MGESktjoKd5XJbmBBoM3wj5sPYd59xRH71Xmi7SxRSB4YTTlOqTW1fiXfvhpOq-2J41dQs1V-apvaQrjjmJ9Lfd4whawH2mxprzWZiuL9jnqphywoFm-qf_wEDrxHHDFZkwFnxmWCjiaoxISLClYc-PDGB_G2OdFRUhAiBlWkq5VaJjftfNebTWhbpyLEooJnzOAWzyqzulaD_CxgGlnV2dtAxjT67G0jK_EhB46sEuXN3GRvqegzeuhe7WHYcwWTS36BSEWyhhfSPHLC432VvfNq7n8NnZuPNfBHdJJUpl8-lQ8pQAed5adUf4c3M_P82EYf5o83x7ilVlJn_6tJ5_K9v3Xs0_grV-niRTvunUu2Ev91M6S9Tv3zNrfAy6jdUjCY0ACrrX0Q1P6oeY1I6xSo9doxInGh4D11-TCV7OH9uY_J10f8gtyQC9RKPZhWIfoOXOc7ZD6t8ppt5ZIydJlakGaaKb838jRHZmqsPY_1tqO10_B97ips1fY7VZRTMxRcbhkb7oWeyQ3QmNsG0AginTqsswVM3omYdp94QfcgABQaknpxje30A9xIZ-2tNtdPyJBdd2TfFpzSh7gFTkKJtWQ0ER1iWnmAkr718aHDHDxfCZggNkEbEHA05PA3EA0JXC_GeBqDkrrV1qzFsfAq2iu8XBARExSIN4A-cW5upWjmm5eJ51AwOJiHf9Lpvx8skVqQ-xwLMUPtYHYrSMAxITV0Ok8PQLBdEUCzwXVKkFyacOgKFyCUOQgZMqepBbz8D-gjTLK0mcsjBF5gLuHVUFGrpq23GpqY2622HfE6LtjqlgpgiQtMMhwEcpWi5Uc0tO0Qcn798r9GISsdkifos1ke5ZScHXHV_r3j1nlzO_-_lEigmFhzILfewwrfU4uvEGCnFTlvIxOpWU0nA9qBVCx" class="button">
+    Download
+  </a>
+</p>
+
+<style>
+  .button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+  }
+</style>
+
+## Abstract
+We study investments in exclusive projects with different cost structures. Our analysis incorporates the possibility of producing a stochastic revenue stream from two alternative technologies with a stochastic variable cost and a fixed cost, respectively, and accounts for project managers’ endogenous operating decisions. The optimal investment decision is characterized by two possibly nonmonotone boundaries. We examine the effect of operating leverage on managerial policies, investment decisions, and values and carry out an application to power generation projects. We assess the impact of knowledge acquisition, that is, investments in growth options. (JEL G13, Q40, Q42, L94)
+## Inspiration
+
+
+
+
+## Discussion
