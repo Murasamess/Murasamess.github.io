@@ -4,7 +4,7 @@ title: "The Effect of Cash Injections: Evidence from the 1980s Farm Debt Crisis�
 author: "Nittai K Bergman, Rajkamal Iyer, Richard T Thakor"
 presenter: "xxx"
 date:  2019-09-03
-categories: [Climate Change,Finance Top5]
+categories: [Climate Change,Review of Financial Studies]
 papers:
 - name: "Download"
   link: "https://www.nber.org/system/files/working_papers/w23546/w23546.pdf"
