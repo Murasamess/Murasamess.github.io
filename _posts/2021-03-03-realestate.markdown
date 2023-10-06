@@ -4,7 +4,7 @@ title: "The Rate of Return on Real Estate: Long-Run Micro-Level Evidence "
 author: "David Chambers, Christophe Spaenjers, Eva Steiner"
 presenter: "xxx"
 date:  2021-03-03
-categories: [Climate Change,Finance Top5]
+categories: [Climate Change,Review of Financial Studies]
 ---
 
 
