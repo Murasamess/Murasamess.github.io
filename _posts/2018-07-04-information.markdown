@@ -4,7 +4,7 @@ title: "Information, Trading, and Volatility: Evidence from Firm-Specific News"
 author: "Jacob Boudoukh, Ronen Feldman, Shimon Kogan, Matthew Richardson"
 presenter: "xxx"
 date:  2018-07-04
-categories: [CSR,Finance Top5]
+categories: [CSR,Review of Financial Studies]
 papers:
 - name: "Download"
   link: "https://deliverypdf.ssrn.com/delivery.php?ID=801118100100120094085126121092030118097047072050071009098004067067073125011027029106118049038127005002035071116070025077107010122047032083023121066081066070085104007022037053020071088112015119121114006000006067091028099068019099112065090000102075029000&EXT=pdf&INDEX=TRUE"
