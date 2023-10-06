@@ -4,7 +4,7 @@ title: "Tokenomics: Dynamic Adoption and Valuation"
 author: "Lin William Cong, Ye Li, Neng Wang"
 presenter: "xxx"
 date:  2020-07-03
-categories: [ESG,Finance Top5]
+categories: [ESG,Review of Financial Studies]
 ---
 
 
