@@ -4,7 +4,7 @@ title: "Hedging Climate Change News"
 author: "Robert F Engle, Stefano Giglio, Bryan Kelly, Heebum Lee, Johannes Stroebel"
 presenter: "xxx"
 date:  2020-02-07
-categories: [ESG,Climate Change,Emissions,Carbon,Finance Top5]
+categories: [ESG,Climate Change,Emissions,Carbon,Review of Financial Studies]
 papers:
 - name: "Download"
   link: "https://deliverypdf.ssrn.com/delivery.php?ID=772029127089022097119080012110105029127088006054089053094028111111099118030094073027041060048030012023098000127073088065004078033006063021080095090068027115116088109058013055086105106125067001104089071097099089018030071093003011006071120027123122020003&EXT=pdf&INDEX=TRUE"
