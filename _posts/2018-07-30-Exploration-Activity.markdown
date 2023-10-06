@@ -4,7 +4,7 @@ title: "Exploration Activity, Long-run Decisions, and the Risk Premium in Energy
 author: "Alexander David"
 presenter: "xxx"
 date:  2018-07-30
-categories: [Climate Change,Finance Top5]
+categories: [Climate Change,Review of Financial Studies]
 papers:
 - name: "Download"
   link: "https://deliverypdf.ssrn.com/delivery.php?ID=948094085101100114103101090083006112050056057015048070089079087127004083102026068111035039121014039099118096086116003089024070018080026002036083114111120024015072087044003066025028015070111078098019096105103095072097099000004123107121111064126090&EXT=pdf&INDEX=TRUE"
