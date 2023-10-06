@@ -4,7 +4,7 @@ title: "Investing for Impact"
 author: "Bhagwan Chowdhry, Shaun William Davies, Brian Waters"
 presenter: "xxx"
 date:  2018-04-24
-categories: [ESG, CSR, Emissions, Carbon,Finance Top5]
+categories: [ESG, CSR, Emissions, Carbon,Review of Financial Studies]
 papers:
 - name: "Download"
   link: "https://deliverypdf.ssrn.com/delivery.php?ID=548111106089089064022096120077073027021025063038087091093126113125006115094075000111018037122016015026027065110096000110127101118045047033052126120114097085009072079008008014027030074068114002083098124113100025002127093119080096096123081098107091005124&EXT=pdf&INDEX=TRUE"
