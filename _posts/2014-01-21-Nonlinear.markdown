@@ -28,6 +28,9 @@ papers:
     font-weight: bold;
   }
 </style>
+
+## Abstract
+Markowitz (1952) portfolio selection requires an estimator of the covariance matrix of returns. To address this problem, we promote a nonlinear shrinkage estimator that is more flexible than previous linear shrinkage estimators and has just the right number of free parameters (i.e., the Goldilocks principle). This number is the same as the number of assets. Our nonlinear shrinkage estimator is asymptotically optimal for portfolio selection when the number of assets is of the same magnitude as the sample size. In backtests with historical stock return data, it performs better than previous proposals and, in particular, it dominates linear shrinkage.
 ## Inspiration
 
 
