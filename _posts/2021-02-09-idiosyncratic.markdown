@@ -4,7 +4,7 @@ title: "Idiosyncratic Risk in Housing Markets"
 author: "Marco Giacoletti"
 presenter: "xxx"
 date:  2021-02-09
-categories: [Climate Change,Finance Top5]
+categories: [Climate Change,Review of Financial Studies]
 ---
 
 
