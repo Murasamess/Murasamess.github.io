@@ -4,7 +4,7 @@ title: "The Party Structure of Mutual Funds"
 author: "Ryan Bubb, Emiliano M Catan"
 presenter: "xxx"
 date:  2021-07-18
-categories: [ESG,CSR,Finance Top5]
+categories: [ESG,CSR,Review of Financial Studies]
 ---
 
 
