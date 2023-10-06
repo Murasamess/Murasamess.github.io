@@ -4,7 +4,7 @@ title: "Informal Financial Networks: Theory and Evidence"
 author: "Mark J. Garmaise, Tobias J. Moskowitz"
 presenter: "xxx"
 date:  2015-02-04
-categories: [ESG,Finance Top5]
+categories: [ESG,Review of Financial Studies]
 papers:
 - name: "Downloads"
   link: "[[https://github.com/Murasamess/Murasamess.github.io/edit/master/_posts/2020-05-21-diff-privacy.markdown](https://www.jstor.org/stable/1262736)](https://www.jstor.org/stable/pdf/1262736.pdf?refreqid=excelsior%3A11b150d8c4a365cd268c006a47601fae&ab_segments=&origin=&initiator=&acceptTC=1)"
