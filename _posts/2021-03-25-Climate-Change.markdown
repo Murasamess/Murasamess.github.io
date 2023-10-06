@@ -4,7 +4,7 @@ title: "Climate Change and Long-Run Discount Rates: Evidence from Real Estate"
 author: "Stefano Giglio, Matteo Maggiori, Krishna Rao, Johannes Stroebel, Andreas Weber"
 presenter: "xxx"
 date:  2021-03-25
-categories: [Climate Change,Emissions,Carbon,Finance Top5]
+categories: [Climate Change,Emissions,Carbon,Review of Financial Studies]
 ---
 
 
