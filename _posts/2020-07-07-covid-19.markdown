@@ -4,7 +4,7 @@ title: "How Valuable Is Financial Flexibility when Revenue Stops? Evidence from 
 author: "Rüdiger Fahlenbrach, Kevin Rageth, René M Stulz"
 presenter: "xxx"
 date:  2020-07-07
-categories: [CSR,Finance Top5]
+categories: [CSR,Review of Financial Studies]
 ---
 
 
