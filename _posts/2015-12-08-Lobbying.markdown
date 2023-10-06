@@ -4,7 +4,7 @@ title: "The Corporate Value of (Corrupt) Lobbying "
 author: "Alexander Borisov, Eitan Goldman, Nandini Gupta"
 presenter: "xxx"
 date:  2015-12-08
-categories: [CSR,Finance Top5]
+categories: [CSR,Review of Financial Studies]
 papers:
 - name: "Download"
   link: "https://deliverypdf.ssrn.com/delivery.php?ID=124083127024115092016119095025087087057013006006039043089016070023002126074087090068056000031041111006030010003100104027067082062074008052087001003083074108118007090013049090094122020020027008096117085006000086108122095065092122110122006071115066117&EXT=pdf&INDEX=TRUE"
