@@ -29,6 +29,9 @@ papers:
     font-weight: bold;
   }
 </style>
+
+## Abstract
+Weather is a key source of income risk, especially in emerging market economies. This paper uses a randomized controlled trial involving Indian farmers to study how an innovative rainfall insurance product affects production decisions. We find that insurance provision induces farmers to invest more in higher-return but rainfall-sensitive cash crops, particularly among educated farmers. This shift in behavior occurs ex ante, when realized monsoon rainfall is still uncertain. Our results suggest that financial innovation can mitigate the real effects of uninsured production risk.
 ## Inspiration
 
 
