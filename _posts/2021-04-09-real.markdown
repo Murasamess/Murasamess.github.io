@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Get Real! Individuals Prefer More Sustainable Investments"
+author: "Rob Bauer, Tobias Ruof, Paul Smeets"
+presenter: "xxx"
+date:  2021-03-25
+categories: [ESG,Climate Change,Emissions,Finance Top5]
+---
+
+
+<p>
+  <a href="https://deliverypdf.ssrn.com/delivery.php?ID=831111064100006083103090018103102110060043028048003056002080111099099089123022117105097043100107049008028123090085013000115089020025003011053079009108125028016108002006024071116101079071069075100026092092089073029022005113071086006095072086100101013&EXT=pdf&INDEX=TRUE" class="button">
+    Download
+  </a>
+</p>
+
+<style>
+  .button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+  }
+</style>
+
+## Abstract
+The United Nations’ Sustainable Development Goals (SDGs) have created societal and political pressure for pension funds to address sustainable investing. We run two field surveys (n = 1,669, n = 3,186) with a pension fund that grants its members a real vote on its sustainable-investment policy. Two-thirds of participants are willing to expand the fund’s engagement with companies based on selected SDGs, even when they expect engagement to hurt financial performance. Support remains strong after the fund implements the choice. A key reason is participants’ strong social preferences.
+
+
+
+
+## Discussion
