@@ -7,10 +7,10 @@ date:  2015-02-04
 categories: [privacy, algorithms, theory]
 papers:
 - name: "Downloads"
-  link: "[https://github.com/Murasamess/Murasamess.github.io/edit/master/_posts/2020-05-21-diff-privacy.markdown](https://www.jstor.org/stable/1262736)"
+  link: "[[https://github.com/Murasamess/Murasamess.github.io/edit/master/_posts/2020-05-21-diff-privacy.markdown](https://www.jstor.org/stable/1262736)](https://www.jstor.org/stable/pdf/1262736.pdf?refreqid=excelsior%3A11b150d8c4a365cd268c006a47601fae&ab_segments=&origin=&initiator=&acceptTC=1)"
 ---
 <p>
-  <a href="https://www.jstor.org/stable/1262736" class="button">
+  <a href="[https://www.jstor.org/stable/1262736](https://www.jstor.org/stable/pdf/1262736.pdf?refreqid=excelsior%3A11b150d8c4a365cd268c006a47601fae&ab_segments=&origin=&initiator=&acceptTC=1)" class="button">
     Download
   </a>
 </p>
