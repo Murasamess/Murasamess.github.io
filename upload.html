@@ -58,7 +58,7 @@ permalink: /upload/
 
     var xhr = new XMLHttpRequest();
     xhr.open("PUT", "https://api.github.com/repos/murasamess/murasamess.github.io/contents/_posts/" + filename);
-    xhr.setRequestHeader("Authorization", "token YOUR_ACCESS_TOKEN");
+    xhr.setRequestHeader("Authorization", "token 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");
     xhr.setRequestHeader("Content-Type", "application/json");
     xhr.onload = function() {
       if (xhr.status === 201) {
