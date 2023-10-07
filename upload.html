@@ -1,0 +1,76 @@
+---
+layout: page
+title: Upload Paper
+permalink: /upload/
+---
+
+<button id="upload-btn" class="btn btn-primary">Upload Paper</button>
+
+<div id="upload-modal" class="modal">
+  <div class="modal-content">
+    <form id="upload-form">
+      <label for="title">Title:</label>
+      <input type="text" id="title" name="title">
+      <label for="author">Author:</label>
+      <input type="text" id="author" name="author">
+      <label for="presenter">Presenter:</label>
+      <input type="text" id="presenter" name="presenter">
+      <label for="date">Date:</label>
+      <input type="date" id="date" name="date">
+      <label for="categories">Categories:</label>
+      <input type="text" id="categories" name="categories">
+      <label for="href">Download Link:</label>
+      <input type="text" id="href" name="href">
+      <label for="abstract">Abstract:</label>
+      <textarea id="abstract" name="abstract"></textarea>
+      <label for="inspiration">Inspiration:</label>
+      <textarea id="inspiration" name="inspiration"></textarea>
+      <label for="discussion">Discussion:</label>
+      <textarea id="discussion" name="discussion"></textarea>
+      <button type="submit" id="submit-btn">Upload</button>
+    </form>
+  </div>
+</div>
+
+<script>
+  var uploadBtn = document.getElementById("upload-btn");
+  uploadBtn.addEventListener("click", function() {
+    var modal = document.getElementById("upload-modal");
+    modal.style.display = "block";
+  });
+
+  var submitBtn = document.getElementById("submit-btn");
+  submitBtn.addEventListener("click", function(event) {
+    event.preventDefault(); // Prevent the form from submitting normally
+
+    var title = document.getElementById("title").value;
+    var author = document.getElementById("author").value;
+    var presenter = document.getElementById("presenter").value;
+    var date = document.getElementById("date").value;
+    var categories = document.getElementById("categories").value;
+    var href = document.getElementById("href").value;
+    var abstract = document.getElementById("abstract").value;
+    var inspiration = document.getElementById("inspiration").value;
+    var discussion = document.getElementById("discussion").value;
+
+    var filename = title.toLowerCase().replace(/ /g, "-") + ".md";
+    var contentString = "---\nlayout: post\ntitle: " + title + "\nauthor: " + author + "\npresenter: " + presenter + "\ndate: " + date + "\ncategories: [" + categories + "]\n---\n\n<p>\n  <a href=\"" + href + "\" class=\"button\">\n    Download\n  </a>\n</p>\n\n<style>\n  .button {\n    display: inline-block;\n    padding: 10px 20px;\n    background-color: #007bff;\n    color: #fff;\n    text-decoration: none;\n    border-radius: 5px;\n    font-size: 16px;\n    font-weight: bold;\n  }\n</style>\n\n## Abstract\n\n" + abstract + "\n\n## Inspiration\n\n" + inspiration + "\n\n## Discussion\n\n" + discussion;
+
+    var xhr = new XMLHttpRequest();
+    xhr.open("PUT", "https://api.github.com/repos/murasamess/murasamess.github.io/contents/_posts/" + filename);
+    xhr.setRequestHeader("Authorization", "token YOUR_ACCESS_TOKEN");
+    xhr.setRequestHeader("Content-Type", "application/json");
+    xhr.onload = function() {
+      if (xhr.status === 201) {
+        var response = JSON.parse(xhr.responseText);
+        window.location.href = response.content.html_url;
+      } else {
+        console.log(xhr.statusText);
+      }
+    };
+    xhr.send(JSON.stringify({
+      message: "Add new post: " + title,
+      content: btoa(contentString)
+    }));
+  });
+</script>
