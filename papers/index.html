@@ -1,7 +1,3 @@
----
-layout: default
----
-
 <div id="home">
   <h1> Papers Read </h1>
   <hr />
@@ -9,12 +5,13 @@ layout: default
   <ul class="posts">
     {% for post in paginator.posts %}
     <li><a href="{{ post.url }}">{{ post.title }}</a> &raquo; <span> {{ post.presenter }}</span> &raquo; <i><span>{{ post.date | date_to_string }} </span></i>
-	<ul>
-            {% for paper in post.papers | sort: 'date' | reverse%}
-		{% for post in sorted_posts %}
-	    	<li><a href="{{ paper.link }}"> {{ paper.name }} </a></li>
-	    	{% endfor %}
-        </ul>
+      <ul>
+        {% assign sorted_papers = post.papers | sort: 'author' %}
+
+        {% for paper in sorted_papers %}
+          <li><a href="{{ paper.link }}"> {{ paper.name }} </a></li>
+        {% endfor %}
+      </ul>
     </li>
     {% endfor %}
   </ul>
