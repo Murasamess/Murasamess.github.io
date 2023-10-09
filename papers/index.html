@@ -10,12 +10,12 @@ layout: default
     {% for post in paginator.posts %}
     <li><a href="{{ post.url }}">{{ post.title }}</a> &raquo; <span> {{ post.presenter }}</span> &raquo; <i><span>{{ post.date | date_to_string }} </span></i>
       <ul>
-        {% for paper in post.papers | sort: 'author' %}
-	  <li><a href="{{ paper.link }}"> {{ paper.name }} </a></li>
-        {% endfor %}
+        {% for paper in post.papers | sort: 'title' %}
+  		<li><a href="{{ paper.link }}">{{ paper.title }}</a></li>
+	{% endfor %}
       </ul>
     </li>
-{% endfor %}
+  {% endfor %}
   </ul>
 
   <!-- Pagination links -->
