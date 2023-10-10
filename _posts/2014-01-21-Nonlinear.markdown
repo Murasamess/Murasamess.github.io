@@ -5,6 +5,9 @@ author: "Olivier Ledoit,Michael Wolf"
 presenter: "xxx"
 date:  2014-01-21
 categories: [Climate Change,Review of Financial Studies]
+papers:
+  name:"DOI"
+  link:"DOI"
 ---
 
 <p>
